@@ -1,0 +1,22 @@
+badges:
+  - name: Build Status
+    url: https://img.shields.io/github/actions/workflow/status/chirag127/DevIdentity-Free-Subdomain-Registration-Service/ci.yml?label=Build&style=flat-square
+    markdown: "[![Build Status](https://img.shields.io/github/actions/workflow/status/chirag127/DevIdentity-Free-Subdomain-Registration-Service/ci.yml?label=Build&style=flat-square)](https://github.com/chirag127/DevIdentity-Free-Subdomain-Registration-Service/actions/workflows/ci.yml)"
+  - name: Language
+    url: https://img.shields.io/github/languages/top/chirag127/DevIdentity-Free-Subdomain-Registration-Service?style=flat-square
+    markdown: "[![Primary Language](https://img.shields.io/github/languages/top/chirag127/DevIdentity-Free-Subdomain-Registration-Service?style=flat-square)](https://github.com/chirag127/DevIdentity-Free-Subdomain-Registration-Service)"
+  - name: License
+    url: https://img.shields.io/github/license/chirag127/DevIdentity-Free-Subdomain-Registration-Service?style=flat-square
+    markdown: "[![License](https://img.shields.io/github/license/chirag127/DevIdentity-Free-Subdomain-Registration-Service?style=flat-square&color=blue)"
+  - name: GitHub Stars
+    url: https://img.shields.io/github/stars/chirag127/DevIdentity-Free-Subdomain-Registration-Service?style=flat-square
+    markdown: "[![GitHub Stars](https://img.shields.io/github/stars/chirag127/DevIdentity-Free-Subdomain-Registration-Service?style=flat-square)](https://github.com/chirag127/DevIdentity-Free-Subdomain-Registration-Service)"
+  - name: Architecture Type
+    url: https://img.shields.io/badge/Architecture-Decentralized%20Registry-brightgreen?style=flat-square
+    markdown: "[![Architecture](https://img.shields.io/badge/Architecture-Decentralized%20Registry-brightgreen?style=flat-square)](#architecture)"
+  - name: Topic - DNS
+    url: https://img.shields.io/badge/Topic-DNS%20Management-orange?style=flat-square
+    markdown: "[![Topic DNS](https://img.shields.io/badge/Topic-DNS%20Management-orange?style=flat-square)](https://github.com/chirag127/DevIdentity-Free-Subdomain-Registration-Service?topic=dns)"
+  - name: Topic - Identity
+    url: https://img.shields.io/badge/Topic-Developer%20Identity-blue?style=flat-square
+    markdown: "[![Topic Identity](https://img.shields.io/badge/Topic-Developer%20Identity-blue?style=flat-square)](https://github.com/chirag127/DevIdentity-Free-Subdomain-Registration-Service?topic=decentralized-identity)"
