@@ -1,3 +1,44 @@
-node_modules
-package-lock.json
-yarn.lock
+# OS/IDE Generated Files
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Build Artifacts
+/dist
+/build
+/out
+
+# Node Modules (If any JS/TS components were included, but prioritizing Python/HTML context)
+/node_modules
+/npm-debug.log
+
+# Python Specific Artifacts (uv/Ruff/Pytest Context)
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual Environment (Critical for uv)
+.venv/
+venv/
+*
+
+# Distribution / Packaging
+.eggs/
+*.egg-info/
+.coverage
+htmlcov/
+
+# CNAME/DNS Configuration Files (Specific to this project's function)
+CNAME
+*.log
+
+# Temporary Files
+*~
+*.tmp
+
+# GitHub Actions Cache (If necessary, although usually managed by GH)
+.github/workflows/*.lock
